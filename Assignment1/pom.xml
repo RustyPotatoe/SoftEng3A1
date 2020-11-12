@@ -8,6 +8,11 @@
     <artifactId>Assignment1SE3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+    </properties>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
         <dependency>
