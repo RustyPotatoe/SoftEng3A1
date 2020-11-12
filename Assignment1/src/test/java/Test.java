@@ -47,7 +47,7 @@ public class Test {
     @org.junit.Test
     public void moduleValid(){
         assertEquals("Module id does not match.", 188, publicRally.getId());
-        assertEquals("Module name does not match.", "Public rally for dummies", publicRally.getName());
+        assertEquals("Module name does not match.", "Public Rally for Dummies", publicRally.getName());
 
     }
 
